@@ -15,15 +15,22 @@ Select your Consumer Edition 96Boards device to access all product specific reso
 
 - [Compare 96Boards](guides/compare_96boards_ce.md)
 - [96Boards CE Extras](guides/)
+- Device families
+  - [Dragonboard Family](dragonboard/)
+  - [HiKey Family](hikey/)
+  - [Rock Family](rock/)
+  - [Ultra96 Family](ultra96/)
 
 <div class="table-responsive" markdown="1">
 
 | 96Boards                                         | About                                                  | Options                    |
 |:------------------------------------------------:|:------------------------------------------------------:|:--------------------------:|
+| <img src="https://www.96boards.org/product/ce/qualcomm-robotics-rb1/images/rb1-front-sd.png" data-canonical-src="https://www.96boards.org/product/ce/qualcomm-robotics-rb1/images/rb1-front-sd.png" width="200" /><br> **Qualcomm Robotics RB1** | Board based on Qualcomm® QRB2210 processor  | [Documentation](dragonboard/qualcomm-robotics-rb1/)<br>[DragonBoard Family](dragonboard/)<br> |
+| <img src="https://www.96boards.org/product/ce/qualcomm-robotics-rb2/images/rb2-front-sd.png" data-canonical-src="https://www.96boards.org/product/ce/qualcomm-robotics-rb2/images/rb2-front-sd.png" width="200" /><br> **Qualcomm Robotics RB2** | Board based on Qualcomm® QRB4210 processor  | [Documentation](dragonboard/qualcomm-robotics-rb2/)<br>[DragonBoard Family](dragonboard/)<br> |
 | <img src="./e850-96b/additional-docs/images/images-board/sd/e850-96b-front.jpg" data-canonical-src="./e850-96b/additional-docs/images/images-board/sd/e850-96b-front.jpg" width="200" height="200" /><br> **E850-96** | Board based on Samsung E850 SoC  | [Documentation](e850-96b/)<br> |
 | <img src="./thor96/additional-docs/images/images-board/sd/thor96-sd-front.jpg" data-canonical-src="./thor96/additional-docs/images/images-board/sd/thor96-sd-front.jpg" width="200" height="200" /><br> **Thor96** | Board based on NXP iMX8M SoC  | [Documentation](thor96/)<br> |
 | <img src="https://www.96boards.org/product/ce/qualcomm-robotics-rb5/images/rb5-front-sd.png" data-canonical-src="https://www.96boards.org/product/ce/qualcomm-robotics-rb5/images/rb5-front-sd.png" width="200" height="130" /><br> **Qualcomm Robotics RB5** | Board based on Qualcomm® QRB5165 processor  | [Documentation](dragonboard/qualcomm-robotics-rb5/)<br>[DragonBoard Family](dragonboard/)<br> |
-| <img src="https://www.96boards.org/product/ce/rb3-platform/images/db845c-front-sd.png?raw=true" data-canonical-src="https://www.96boards.org/product/ce/rb3-platform/images/db845c-front-sd.png?raw=true" width="200" height="130" /><br> **Qualcomm RB3** | Board based on Qualcomm® Snapdragon™ 845 processor  | [Documentation](dragonboard/)<br>[DragonBoard Family](dragonboard/)<br> |
+| <img src="https://www.96boards.org/product/ce/rb3-platform/images/db845c-front-sd.png?raw=true" data-canonical-src="https://www.96boards.org/product/ce/rb3-platform/images/db845c-front-sd.png?raw=true" width="200" height="130" /><br> **Qualcomm Robotics RB3** | Board based on Qualcomm® Snapdragon™ 845 processor  | [Documentation](dragonboard/dragonboard845c)<br>[DragonBoard Family](dragonboard/)<br> |
 | <img src="https://github.com/96boards/documentation/blob/master/consumer/sophon-edge/additional-docs/images/images-board/sd/sophon-sd-front.png?raw=true" data-canonical-src="https://github.com/96boards/documentation/blob/master/consumer/sophon-edge/additional-docs/images/images-board/sd/sophon-sd-front.png?raw=true" width="220" height="200" /><br> **Sophon Edge** | Board based on Sophon BM1880 | [Documentation](sophon-edge/)    |
 | <img src="https://github.com/96boards/documentation/blob/master/consumer/dragonboard/dragonboard820c/additional-docs/images/images-board/sd/dragonboard820c-front-sd.png?raw=true" data-canonical-src="https://github.com/96boards/documentation/blob/master/consumer/dragonboard/dragonboard820c/additional-docs/images/images-board/sd/dragonboard820c-front-sd.png?raw=true" width="220" height="200" /><br> **DragonBoard 820c** | Board based on Qualcomm® Snapdragon™ 820E processor  | [Documentation](dragonboard/dragonboard820c/)<br>[DragonBoard Family](dragonboard/)<br> |
 | <img src="https://i.imgur.com/4a5GXRd.png" data-canonical-src="https://i.imgur.com/4a5GXRd.png" width="200" height="130" /><br> **DragonBoard 410c** | Board based on Qualcomm® Snapdragon™ 410E processor  | [Documentation](dragonboard/dragonboard410c/)<br>[DragonBoard Family](dragonboard/)<br>|
